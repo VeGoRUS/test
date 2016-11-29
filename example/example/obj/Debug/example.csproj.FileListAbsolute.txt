@@ -1,0 +1,6 @@
+C:\Users\Vitaly\Desktop\test\example\example\bin\Debug\example.exe.config
+C:\Users\Vitaly\Desktop\test\example\example\bin\Debug\example.exe
+C:\Users\Vitaly\Desktop\test\example\example\bin\Debug\example.pdb
+C:\Users\Vitaly\Desktop\test\example\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+C:\Users\Vitaly\Desktop\test\example\example\obj\Debug\example.exe
+C:\Users\Vitaly\Desktop\test\example\example\obj\Debug\example.pdb
