@@ -10,13 +10,16 @@ namespace example
     {
         static void Main(string[] args)
         {
-            int a,b,sum;
+            int a,b,sum,raz;
             Console.Clear();
-            Console.WriteLine();
+            Console.WriteLine(); 
             a = 3;
             b = 4;
             sum = a + b;
+            raz = b - a;
             Console.Write(sum);
+            Console.WriteLine();
+            Console.Write(raz);
             Console.WriteLine();
             Console.ReadLine();
         }
